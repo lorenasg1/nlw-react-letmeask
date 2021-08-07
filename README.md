@@ -1,5 +1,5 @@
+![Letmeask](https://raw.githubusercontent.com/lorenasg1/nlw-react-letmeask/main/src/assets/images/logo.svg)
 
-# Letmeask
 
 An application developed to handle Q&A roms.
 Live version [here](https://letmeask-lorenasg.web.app).
