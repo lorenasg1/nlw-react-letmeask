@@ -20,6 +20,7 @@ Live version [here](https://letmeask-lorenasg.web.app).
 
 - React
 - TypeScript
+- Sass
 - Firebase Authentication
 - Firebase Realtime Database
 - Firebase Hosting
@@ -49,6 +50,8 @@ Install dependencies
 
   yarn
 ```
+
+Change env variables to match your Firebase configuration.
 
 Start the server
 
